@@ -82,6 +82,7 @@
  
  ## Recursos
  - Astro: https://docs.astro.build
- - Express: https://expressjs.com/
+ - Express: https://expressjs.com
  - React: https://react.dev
- - Tailwind CSS: https://tailwindcss.com/
+ - Tailwind CSS: https://tailwindcss.com
+ - Supabase: https://supabase.com
